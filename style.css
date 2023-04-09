@@ -1,0 +1,82 @@
+
+
+
+button {
+    width: 120px;
+    height: 40px;
+    margin: 50px;
+    background-color: #010101;
+    color: #fff;
+    border-radius: 20px;
+    transition: background-color 0.1s ease;
+}
+
+button:hover {
+    background-color: #333333;
+}
+
+.project {
+    margin: 30px auto;
+    text-align: center;
+    width: 700px;
+    padding: 50px;
+    height: 85vh;
+    border: 1px solid rgba(55, 55, 55, 0.4);
+    /* background-color: #fdcadc; */
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.project h1 {
+    font-size: 55px;
+}
+
+.project span {
+    color: #555555;
+}
+
+.project p {
+    color: #555555;
+    margin: 50px;
+}
+
+
+
+#research {
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: #333333;
+    color: #fff;
+    display: none;
+    transition: opacity 0.5s ease-in-out;
+    margin: 80px 0;
+
+}
+
+#research.show {
+    opacity: 1;
+  }
+
+
+  @media only screen and (max-width: 1024px) {
+    .project {
+    width: 90%;
+    padding: 30px;
+    height: auto;
+    }
+    
+    .project h1 {
+    font-size: 40px;
+    }
+    
+    .project p {
+    margin: 30px;
+    }
+    
+    #research {
+    font-size: 18px;
+    padding: 15px;
+    }
+    }
