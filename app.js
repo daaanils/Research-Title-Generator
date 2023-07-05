@@ -59,6 +59,33 @@ const researchs = [
     {title: 'Event Planner Mobile App'},
     {title: 'Centralized Medical System using Different Sensor for Vital signs Detector'},
     {title: 'Herbal Plants Information System'},
+    {title: 'Smart School Management System'},
+    {title: 'Gamification in Education'},
+    {title: 'Social Network Analysis for Student Collaboration'},
+    {title: 'Machine Learning for Adaptive Lesson Planning'},
+    {title: 'Mobile Application for Campus Navigation'},
+    {title: 'Computer Vision for Automated Grading'},
+    {title: 'Designing a New Information System for a Hospital'},
+    {title: 'The Impact of Cloud Computing on Cybersecurity'},
+    {title: 'The Use of Artificial Intelligence for Detecting and Responding to Cyberattacks'},
+    {title: 'Applying Natural Language Processing to Detect Fake News'},
+    {title: 'Creating a Mobile App for Tracking Personal Finances'},
+    {title: 'Designing a New Information System for a Public School District'},
+    {title: 'Developing a System for Managing Supply Chain Logistics'},
+    {title: 'Chatbot for Academic Advising'},
+    {title: 'Applying Natural Language Processing to Detect Plagiarism in Student Essays'},
+    {title: 'Blockchain for Secure and Transparent Student Voting Systems'},
+    {title: 'Creating a Mobile App for Tracking Attendance'},
+    {title: 'Internet of Things (IoT) for Campus Safety: Enhancing Security Measures'},
+    {title: 'Student Feedback Platform: Building a System for Anonymous Feedback Collection'},
+    {title: 'School Event Management Application: Planning and Organizing School Events'},
+    {title: 'Digital Signage System for School Announcements: Displaying Important Information'},
+    {title: 'Online Exam Proctoring System: Ensuring Integrity in Remote Assessments'},
+    {title: 'Designing a User-Friendly E-Learning Platform"'},
+    
+    
+    
+    
 
 
 
